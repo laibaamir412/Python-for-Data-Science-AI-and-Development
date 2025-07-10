@@ -27,11 +27,9 @@ I really enjoyed the **project- and interaction-based nature** of the course. It
 
 ## Contents
 
-- `Week1_Basics.ipynb` – Python syntax, expressions, and variables  
-- `Week2_DataStructures.ipynb` – Lists, tuples, dictionaries, and sets  
-- `Week3_Functions_OOP.ipynb` – Loops, functions, and object-oriented programming  
-- `Week4_DataAnalysis.ipynb` – Pandas and NumPy exercises
-
+- `file handling exercises`
+- `oop analysis exercises`
+- `sample data sets` 
 ---
 
 ##  Certification
